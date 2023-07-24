@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/javier-tejero-rubio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-tejero-rubio/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/jatejeror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/jatejeror" height="30" width="40" /></a>
-<a href="https://discord.gg/javiertejero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="javiertejero" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/JavierTejero#4795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="javiertejero" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
