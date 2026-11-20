@@ -1,26 +1,65 @@
-<h1 align="center">Hi 👋, I'm Javier Tejero</h1>
-<h3 align="center">Discover the power of data applied to tourism: analysis, visualizations, and predictions to enhance the traveler’s experience through passionate data-driven projects.</h3>
+# Hi, I'm Javier Tejero 👋
 
-- 🔭 I’m currently working on [Tourist Cancellations: Improve Customer Satisfaction](https://github.com/jaterub/FLY_Delay)
+### AI Engineer | Generative AI · Agentic Systems · Data & Automation
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaterub](https://github.com/jaterub)
+I build AI-powered applications that connect data, intelligent models, and automation to solve real-world business problems.
 
-- 💬 Ask me about **PyTorch | Keras | TensorFlow**
+My background in data analytics, machine learning, and business processes has evolved toward **Generative AI engineering**, with a focus on developing reliable, maintainable, and practical AI systems.
 
-- 📫 How to reach me **ja.tejeror@gmail.com**
+I am particularly interested in moving AI beyond isolated experiments and into useful applications — from intelligent document processing to multi-agent workflows and business automation.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/javier-tejero-rubio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javier-tejero-rubio/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/jatejeror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/jatejeror" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/JavierTejero#4795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="javiertejero" height="30" width="40" /></a>
-</p>
+## 🧠 What I'm Focused On
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- **AI Agents & Orchestration** — Multi-agent architectures, tool integration, human-in-the-loop workflows, and controlled execution.
+- **Generative AI & RAG** — Large language models, retrieval-augmented generation, structured outputs, and context engineering.
+- **AI Engineering** — Python APIs, automated testing, evaluation, observability, and secure development practices.
+- **Business Intelligence & Automation** — Connecting financial, operational, and analytical data with intelligent systems.
+- **Cloud AI** — Exploring cloud-native AI development with AWS, Azure, and associated model services.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaterub&show_icons=true&locale=en&layout=compact" alt="jaterub" /></p>
+## 🚀 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaterub&show_icons=true&locale=en" alt="jaterub" /></p>
+| Project | What it demonstrates | Stage |
+|---|---|---|
+| [Telegram AI Audit Assistant](https://github.com/jaterub/my_telegram_bot) | Telegram-based spreadsheet audit workflow integrating Databricks, SQLite, and LLM-generated summaries | Existing project |
+| [Operations Document Extractor](https://github.com/jaterub/ops-document-extractor) | Early-stage document-processing service for invoices and contracts, with planned structured extraction and human review | In development |
+| [Finance Variance Agent](https://github.com/jaterub/finance-variance-agent) | Proposed agent architecture for financial variance explanations, retrieval, and human approval | Architecture / planned |
+| [DataSciToolBox](https://github.com/jaterub/DataSciToolBox) | Collaborative Python machine learning toolkit with documentation and automated tests | Previous work |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaterub&" alt="jaterub" /></p>
+### Earlier Data Science Work
+
+[Flight Delay Prediction](https://github.com/jaterub/FLY_Delay) — Machine learning applied to historical flight-delay data.
+
+## 🛠️ Technical Stack
+
+**Programming & Data**
+
+`Python` · `SQL` · `Pandas` · `NumPy` · `scikit-learn`
+
+**AI & Machine Learning**
+
+`LLMs` · `RAG` · `PyTorch` · `TensorFlow` · `Generative AI`
+
+**Backend & Engineering**
+
+`FastAPI` · `Git` · `Docker` · `pytest` · `GitHub Actions`
+
+**Current Exploration**
+
+`LangGraph` · `MCP` · `Claude` · `OpenAI` · `AWS Bedrock` · `Azure AI`
+
+## ⚙️ Engineering Principles
+
+I aim to build systems that are:
+
+- **Practical:** Designed around clear problems and measurable outcomes.
+- **Reliable:** Supported by validation, testing, and explicit failure handling.
+- **Maintainable:** Simple architectures, reusable components, and traceable decisions.
+- **Human-centered:** Keeping people in control of important decisions.
+
+## 🤝 Let's Connect
+
+I'm interested in AI engineering, intelligent automation, agentic systems, and applied AI projects.
+
+**[LinkedIn](https://www.linkedin.com/in/javier-tejero-rubio/)** · **[GitHub](https://github.com/jaterub)** 
+
+📫 **ja.tejeror@gmail.com**
