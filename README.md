@@ -25,9 +25,6 @@ I am particularly interested in moving AI beyond isolated experiments and into u
 | [Finance Variance Agent](https://github.com/jaterub/finance-variance-agent) | Proposed agent architecture for financial variance explanations, retrieval, and human approval | Architecture / planned |
 | [DataSciToolBox](https://github.com/jaterub/DataSciToolBox) | Collaborative Python machine learning toolkit with documentation and automated tests | Previous work |
 
-### Earlier Data Science Work
-
-[Flight Delay Prediction](https://github.com/jaterub/FLY_Delay) — Machine learning applied to historical flight-delay data.
 
 ## 🛠️ Technical Stack
 
