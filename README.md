@@ -1,4 +1,4 @@
-# Hi, I'm Javier Tejero 👋
+
 
 ### AI Engineer | Generative AI · Agentic Systems · Data & Automation
 
