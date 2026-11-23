@@ -57,6 +57,6 @@ I aim to build systems that are:
 
 I'm interested in AI engineering, intelligent automation, agentic systems, and applied AI projects.
 
-**[LinkedIn](https://www.linkedin.com/in/javier-tejero-rubio/)** · **[GitHub](https://github.com/jaterub)** 
+**[LinkedIn](https://www.linkedin.com/in/javier-tejero-rubio/)** 
 
 📫 **ja.tejeror@gmail.com**
